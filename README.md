@@ -11,6 +11,8 @@ _I’m a passionate **Full Stack Web Developer**  with expertise in building sca
 
  ![image](https://github.com/user-attachments/assets/316c8370-887b-4060-a0e0-b1259da755b7)
 
+ [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,nodejs,express,MongoDB,figma,firebase,gcp,git,github,powershell,redux,ts,vite,vscode,)](https://skillicons.dev)
+
 ### Experience:
 
 - **Masai School**: Over 1000+ hours of intensive, immersive coding experience through the Full Stack Web Development program, focusing on real-world problem-solving and project-building. More about masai [Click Here](https://www.masaischool.com/)
