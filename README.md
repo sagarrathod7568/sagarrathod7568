@@ -4,11 +4,11 @@ I’m a passionate **Full Stack Web Developer** and **Frontend Developer** with 
 
 ### Skills and Expertise:
 
-- **Full Stack Web Development**: Proficient in building end-to-end web applications using the MERN stack, from database management to front-end UI/UX design.
-- **Frontend Development**: Skilled in **React.js**, **JavaScript**, **HTML**, and **CSS** for creating responsive, dynamic, and user-friendly web interfaces.
-- **Backend Development**: Hands-on experience with **Node.js** and **Express.js** for developing scalable backend services and APIs.
-- **Version Control**: Strong collaboration and project management experience using **Git** and **GitHub**.
-- **Agile Methodologies**: Experience working in agile environments focusing on collaboration and iterative development.
+- **🌐💻Full Stack Web Development**: Proficient in building end-to-end web applications using the MERN stack, from database management to front-end UI/UX design.
+- **🎨🖥️Frontend Development**: Skilled in **React.js**, **JavaScript**, **HTML**, and **CSS** for creating responsive, dynamic, and user-friendly web interfaces.
+- **🛠️🔗Backend Development**: Hands-on experience with **Node.js** and **Express.js** for developing scalable backend services and APIs.
+- **🧑‍🤝‍🧑📂Version Control**: Strong collaboration and project management experience using **Git** and **GitHub**.
+- **🚀🔄Agile Methodologies**: Experience working in agile environments focusing on collaboration and iterative development.
 
 ### Experience:
 
