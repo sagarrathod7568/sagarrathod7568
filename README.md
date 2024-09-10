@@ -25,7 +25,7 @@ I’m a passionate **Full Stack Web Developer** and **Frontend Developer** with 
 - 👯 I’m looking to collaborate on **open-source web development projects** and anything involving **React.js** or **JavaScript**.
 - 🤔 I’m looking for help with **performance optimization** and **scalability solutions** in large-scale web applications.
 - 💬 Ask me about **React.js**, **JavaScript**, **MERN Stack**, or anything related to **web development**.
-- 📫 How to reach me: [your-email@example.com](https://www.linkedin.com/in/sagar-rathod-7679071b1/)
+- 📫 How to reach me: [Email](sagarrathod050@hmail.com)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love solving puzzles and brain teasers when I'm not coding!
 
@@ -49,5 +49,5 @@ Feel free to explore more of my work and contributions on my [GitHub](https://gi
 
 ### Contact Me:
 
-- Email: your-sagarrathod050@gmail.com
-- LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/sagar-rathod-7679071b1/)
+- Email: (sagarrathod050@gmail.com)
+- LinkedIn [My LinkedIn Profile](https://www.linkedin.com/in/sagar-rathod-7679071b1/)
