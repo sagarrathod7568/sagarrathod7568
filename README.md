@@ -11,7 +11,7 @@ _I’m a passionate **Full Stack Web Developer**  with expertise in building sca
 
  ![image](https://github.com/user-attachments/assets/316c8370-887b-4060-a0e0-b1259da755b7)
 
- [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,nodejs,express,MongoDB,figma,firebase,gcp,git,github,powershell,redux,ts,vite,vscode,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,ts,bootstrap,figma,firebase,gcp,github,vscode,)](https://skillicons.dev)
 
 ### Experience:
 
