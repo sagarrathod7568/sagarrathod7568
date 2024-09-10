@@ -16,7 +16,7 @@ _I’m a passionate **Full Stack Web Developer**  with expertise in building sca
 - **Masai School**: Over 1000+ hours of intensive, immersive coding experience through the Full Stack Web Development program, focusing on real-world problem-solving and project-building. More about masai [Click Here](https://www.masaischool.com/)
 - **Collaborative Projects** and **Individual Projects** : Worked on multiple projects with peers to design and build applications, handling tasks like front-end design, back-end development, API integration, and deployment. Completed several solo projects demonstrating my ability to design and implement web applications from scratch, available on my [GitHub Profile](https://github.com/sagarrathod7568).
 
- ![image](https://github.com/user-attachments/assets/316c8370-887b-4060-a0e0-b1259da755b7)
+<img align="center" src="https://github.com/user-attachments/assets/316c8370-887b-4060-a0e0-b1259da755b7"/>
  
 ### 💡 Quick Facts:
 
