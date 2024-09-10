@@ -10,13 +10,15 @@ I’m a passionate **Full Stack Web Developer** and **Frontend Developer** with 
 - **🧑‍🤝‍🧑📂Version Control**: Strong collaboration and project management experience using **Git** and **GitHub**.
 - **🚀🔄Agile Methodologies**: Experience working in agile environments focusing on collaboration and iterative development.
 
+- ![image](https://github.com/user-attachments/assets/316c8370-887b-4060-a0e0-b1259da755b7)
+
 ### Experience:
 
 - **Masai School**: Over 1000+ hours of intensive, immersive coding experience through the Full Stack Web Development program, focusing on real-world problem-solving and project-building.
 - **Collaborative Projects**: Worked on multiple projects with peers to design and build applications, handling tasks like front-end design, back-end development, API integration, and deployment.
-- **Individual Projects**: Completed several solo projects demonstrating my ability to design and implement web applications from scratch, available on my [GitHub profile](https://github.com/your-github-username).
+- **Individual Projects**: Completed several solo projects demonstrating my ability to design and implement web applications from scratch, available on my [GitHub Profile](https://github.com/sagarrathod7568).
 
----
+![image](https://github.com/user-attachments/assets/656f67a9-2d49-467f-8e91-acfae2d5ae38)
 
 ### 💡 Quick Facts:
 
@@ -49,5 +51,5 @@ Feel free to explore more of my work and contributions on my [GitHub](https://gi
 
 ### Contact Me:
 
-- Email: (sagarrathod050@gmail.com)
+- Email: [My Email](sagarrathod050@gmail.com)
 - LinkedIn [My LinkedIn Profile](https://www.linkedin.com/in/sagar-rathod-7679071b1/)
