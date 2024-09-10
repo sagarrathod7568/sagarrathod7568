@@ -1,4 +1,4 @@
-## Hi there👋, I’m Sagar Annarao Rathod .
+## Hello👋, I’m Sagar Annarao Rathod.
 _I’m a passionate **Full Stack Web Developer**  with expertise in building scalable web applications using the **MERN** stack (MongoDB, Express.js, React.js, Node.js). My core technical stack includes **React.js**, **JavaScript**, **HTML** and **CSS**, and I’ve spent over **1000+ hours** mastering these skills through hands-on coding, project work, and comprehensive coursework at **Masai School**._
 
 ### Skills and Expertise:
