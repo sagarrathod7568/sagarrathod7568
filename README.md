@@ -1,6 +1,6 @@
 # About Me
-## Hi! there👋, I am Sagar Annarao Rathod
-I’m a passionate **Full Stack Web Developer** and **Frontend Developer** with expertise in building scalable web applications using the **MERN** stack (MongoDB, Express.js, React.js, Node.js). My core technical stack includes **JavaScript**, **HTML**, **CSS**, and **React.js**, and I’ve spent over **1000+ hours** mastering these skills through hands-on coding, project work, and comprehensive coursework at **Masai School**.
+## Hi there !👋, I’m Sagar Annarao Rathod .
+I’m a passionate **Full Stack Web Developer**  with expertise in building scalable web applications using the **MERN** stack (MongoDB, Express.js, React.js, Node.js). My core technical stack includes **JavaScript**, **HTML**, **CSS**, and **React.js**, and I’ve spent over **1000+ hours** mastering these skills through hands-on coding, project work, and comprehensive coursework at **Masai School**.
 
 ### Skills and Expertise:
 
@@ -10,7 +10,7 @@ I’m a passionate **Full Stack Web Developer** and **Frontend Developer** with 
 - **🧑‍🤝‍🧑📂Version Control**: Strong collaboration and project management experience using **Git** and **GitHub**.
 - **🚀🔄Agile Methodologies**: Experience working in agile environments focusing on collaboration and iterative development.
 
-- ![image](https://github.com/user-attachments/assets/316c8370-887b-4060-a0e0-b1259da755b7)
+ ![image](https://github.com/user-attachments/assets/316c8370-887b-4060-a0e0-b1259da755b7)
 
 ### Experience:
 
@@ -27,21 +27,21 @@ I’m a passionate **Full Stack Web Developer** and **Frontend Developer** with 
 - 👯 I’m looking to collaborate on **open-source web development projects** and anything involving **React.js** or **JavaScript**.
 - 🤔 I’m looking for help with **performance optimization** and **scalability solutions** in large-scale web applications.
 - 💬 Ask me about **React.js**, **JavaScript**, **MERN Stack**, or anything related to **web development**.
-- 📫 How to reach me: [Email](sagarrathod050@hmail.com)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love solving puzzles and brain teasers when I'm not coding!
+- 📫 How to reach me : [Here is my Email](sagarrathod050@hmail.com)
+- 😄 Pronouns : **He/Him**
+- ⚡ Fun fact : I love solving puzzles and brain teasers when I'm not coding!
 
 ---
 
 ### Projects:
 
-Here are some projects that I’ve worked on individually and collaboratively:
+Here are some projects that I’ve worked on individually and collaboratively :
 
-- ** 1**: Health and Wellness Platform:
+- **1** : Health and Wellness Platform:
 Technologies Used: React.js, HTML, CSS, Chakra UI, Bootstrap, Tailwind CSS, Google Gemini AI, Firebase, Google Cloud Console.
 Purpose: The Health and Wellness platform is designed to help users track their daily progress, including weight loss, diet, and exercise routines. The app provides personalized tips and guidance to assist users in staying fit and healthy, offering features like workout suggestions, diet plans, and progress tracking. Integrated with Google Gemini AI for smart recommendations, and Firebase for secure user data storage, this project helps individuals lead a healthier lifestyle through a holistic approach.
 
-- **2**: Weekend Plans App:
+- **2** : Weekend Plans App:
 Technologies Used: MongoDB, React.js, Chakra UI, Tailwind CSS, Bootstrap, HTML, CSS.
 Purpose: The Weekend Plans app allows users to organize and plan trips with friends on a calendar basis. Users can select a location and invite friends to join the trip, providing a collaborative experience for weekend getaways. The app features seamless trip planning, invitations, and scheduling, ensuring everyone is on the same page. Built with MongoDB for managing data, React.js for dynamic front-end functionality, and styled with Chakra UI, Tailwind, and Bootstrap, it offers a smooth user experience for planning memorable trips.
 
