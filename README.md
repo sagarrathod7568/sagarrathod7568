@@ -47,6 +47,6 @@ Purpose: The Weekend Plans app allows users to organize and plan trips with frie
 
 ### Contact Me:
 
-- Email: [My Email](sagarrathod050@gmail.com)
+- Email: sagarrathod050@gmail.com
 - LinkedIn [My LinkedIn Profile](https://www.linkedin.com/in/sagar-rathod-7679071b1/)
 - Portfolio [My Portfolio Profile](https://sagarrathod7568-github-io.vercel.app/)
